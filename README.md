@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AndrzejKebab
 - 👀 I’m interested in games
-- 🌱 I’m currently learning C++ and Unity3D
+- 🌱 I’m currently learning C# and Unity3D
