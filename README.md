@@ -5,12 +5,12 @@
 Games I want to make someday
 
 Mobile Games:
-Medival City Builder
+- Medival City Builder
 
 Indie Games:
-2D RPG
-Horror Game
-Minecraft-like game
+- 2D RPG
+- Horror Game
+- Minecraft-like game
 
 AAAA Game:
-Rougelike Sandbox MMORPG
+- Rougelike Sandbox MMORPG
