@@ -1,6 +1,6 @@
 # 💫 About Me:
-<s>🌱 I’m currently learning C# and Unity</s><br>
-🌱 I’m currently learning C++ and Unreal Engine 5<br>
+🌱  I’m currently learning C# and Unity<br>
+    and a bit of C++ and Unreal Engine 5<br>
 
 ## Games I want to make someday:
 ### Mobile Game:<br>
@@ -10,6 +10,7 @@
 - 2D RPG<br>
 - Horror Game<br>
 - Minecraft-like game<br>
+- Voxel Shelter/Base Builder/Simulator
 - Stronghold-like game
 
 ### AAAA Game:<br>
