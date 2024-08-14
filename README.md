@@ -42,6 +42,3 @@ Collaboration & Version Control:<br>
 # 📊 GitHub Stats:<br>
 ![](https://github-readme-stats.vercel.app/api?username=AndrzejKebab&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AndrzejKebab&theme=dark&hide_border=false)<br/>
-
-## 🏆 GitHub Trophies<br>
-![](https://github-profile-trophy.vercel.app/?username=AndrzejKebab&theme=alduin&no-frame=false&no-bg=false&margin-w=4&row=3&column=8)
