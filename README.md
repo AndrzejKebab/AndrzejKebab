@@ -4,8 +4,8 @@
 ---
 
 ## 💫 About me
-I'm an aspiring **Junior Unity Developer** focused on building prototypes and technical demos in Unity (C#). I enjoy solving performance problems, designing runtime systems and experimenting with procedural generation.  
-Most of my experience comes from personal projects, game jams and collaborative prototypes — all public on my GitHub.
+I'm an aspiring **Unity Developer** focused on building prototypes and technical demos in Unity (C#). I enjoy solving performance problems, designing systems and experimenting with procedural generation.  
+Most of my experience comes from personal projects — mostly public on my GitHub.
 
 ---
 
