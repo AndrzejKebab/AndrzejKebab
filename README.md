@@ -25,7 +25,7 @@ Most of what I build is voxel tech: world generation, chunk pipelines, rendering
 | Project | What it is |
 |---|---|
 | **[AutoBuildTool](https://github.com/AndrzejKebab/AutoBuildTool)** | Unity editor tool for one-click client and server builds: `BuildProfile` discovery, semantic version bumping, build retention, and post-build folder/file trees |
-| **[Minecraft-like Game](https://github.com/AndrzejKebab/Minecraft-like-Game)** | Earlier voxel project comparing System.Threading, Jobs + Burst and ECS. Later moved to GPU-driven chunk rendering and priority-queued chunk builds |
+| **[Minecraft-like Game](https://github.com/AndrzejKebab/Minecraft-like-Game)** | Earlier voxel project comparing System.Threading, Jobs + Burst and ECS. |
 | **[Unity-JobScheduler](https://github.com/AndrzejKebab/Unity-JobScheduler)** | Coordinates Unity Jobs and their completion, with UniTask integration |
 | **[UnityVoxelMeshGPU](https://github.com/AndrzejKebab/UnityVoxelMeshGPU)** | Fork: compute-shader voxel meshing, comparing `DrawProceduralIndirect` against `RenderPrimitivesIndirect` and `RenderPrimitivesIndirectIndexed` |
 | **[Enhanced Procedural Terrain Generation](https://github.com/AndrzejKebab/Enhanced-Procedural-Terrain-Generation)** | Noise-based terrain module with parallel generation |
